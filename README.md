@@ -1,25 +1,61 @@
-# Create React App example
+# Front-end Instaclone con React JS
 
-## How to use
+_Front-end del clone de Instagram hecho con React, Material UI y Apollo_
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
+Link del proyecto desplegado con Heroku y Netlify: https://instaclone-wilfer.netlify.app/
 
-```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/create-react-app
-cd create-react-app
+## Comenzando 🚀
+
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+Mira **Deployment** para conocer como desplegar el proyecto.
+
+
+### Pre-requisitos 📋
+
+_Que cosas necesitas para instalar el software y como instalarlas_
+
+```
+Node JS: https://nodejs.org/
 ```
 
-Install it and run:
+### Instalación 🔧
 
-```sh
-npm install
-npm start
+_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+
+```
+$ git clone https://github.com/WilferSalas/instaclone-client/
 ```
 
-or:
+```
+$ yarn install
+```
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui-org/material-ui/tree/master/examples/create-react-app)
+```
+$ yarn start
+```
 
-## The idea behind the example
+![Alt Text](https://s7.gifyu.com/images/CRM-1.gif)
 
-This example demonstrates how you can use [Create React App](https://github.com/facebookincubator/create-react-app).
+
+## Construido con 🛠️
+
+* [React](https://reactjs.org/)
+* [Apollo](https://www.apollographql.com/)
+* [Material UI](https://material-ui.com/)
+
+## Autores ✒️
+
+* **Wilfer Salas** - [WilferSalas](https://github.com/WilferSalas)
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢.
+* Invita una cerveza 🍺 o un café ☕.
+* Da las gracias públicamente 🤓.
+* etc.
+
+
+
+---
+⌨️ con ❤️ por [WilferSalas](https://github.com/WilferSalas) 😊
