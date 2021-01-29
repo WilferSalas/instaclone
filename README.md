@@ -35,7 +35,7 @@ $ yarn install
 $ yarn start
 ```
 
-![Alt Text](https://s7.gifyu.com/images/CRM-1.gif)
+[![instaclone.md.gif](https://s2.gifyu.com/images/instaclone.md.gif)](https://gifyu.com/image/UuAd)
 
 
 ## Construido con 🛠️
