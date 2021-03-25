@@ -24,7 +24,7 @@ Node JS: https://nodejs.org/
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
 ```
-$ git clone https://github.com/WilferSalas/instaclone-client/
+$ git clone https://github.com/WilferSalas/chatbot-lex
 ```
 
 ```
@@ -35,27 +35,7 @@ $ yarn install
 $ yarn start
 ```
 
-[![instaclone.md.gif](https://s2.gifyu.com/images/instaclone.md.gif)](https://gifyu.com/image/UuAd)
-
-
 ## Construido con 🛠️
 
 * [React](https://reactjs.org/)
-* [Apollo](https://www.apollographql.com/)
 * [Material UI](https://material-ui.com/)
-
-## Autores ✒️
-
-* **Wilfer Salas** - [WilferSalas](https://github.com/WilferSalas)
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢.
-* Invita una cerveza 🍺 o un café ☕.
-* Da las gracias públicamente 🤓.
-* etc.
-
-
-
----
-⌨️ con ❤️ por [WilferSalas](https://github.com/WilferSalas) 😊
